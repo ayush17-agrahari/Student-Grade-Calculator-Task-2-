@@ -38,4 +38,15 @@ This is a simple Java console application to calculate a student's total marks, 
 | 50 - 59        | D      |
 | Below 50       | F      |
 
+OUTPUT:
 
+Enter number of subjects: 4
+Enter marks for subject 1 (out of 100): 75
+Enter marks for subject 2 (out of 100): 80
+Enter marks for subject 3 (out of 100): 89
+Enter marks for subject 4 (out of 100): 92
+
+=== RESULT ===
+Total Marks: 336/400
+Average Percentage: 84.00%
+Grade: A
